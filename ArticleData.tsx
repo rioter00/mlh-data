@@ -1,4 +1,4 @@
-export const ArticleData = [
+
   {
     title: "Exploring the Mindset: Why We Play the Lottery",
     author: "John Doe",
@@ -62,5 +62,4 @@ export const ArticleData = [
     imgurl: "../src/assets/BlogImages/8.png",
     content:
       "Lotteries, while popular and often beneficial in funding public projects, pose significant ethical questions. A primary concern is the impact of lotteries on vulnerable populations. Critics argue that lotteries act as a 'regressive tax,' disproportionately affecting low-income individuals who are more likely to spend a higher portion of their income on lottery tickets. This raises questions about the morality of a state-run enterprise benefiting from the hopeful but often fruitless expenditure of its poorest citizens. Another ethical issue is the potential for addiction. Like other forms of gambling, lotteries can be addictive, leading to financial hardship and negative social consequences for players and their families. This has prompted calls for better regulation and support for gambling addiction. The way lotteries are marketed also raises ethical concerns. Advertisements often emphasize the life-changing potential of winning, downplaying the extremely low odds. This can create unrealistic expectations and encourage excessive spending on lottery tickets. On the other hand, proponents of lotteries argue that they are a voluntary form of entertainment, offering a harmless way for people to dream and have a bit of fun. Furthermore, the revenue generated from lotteries supports many public goods, including education, parks, and infrastructure projects, benefiting society as a whole. The ethical considerations of lotteries are complex, involving a delicate balance between their economic benefits and the potential for harm. As lotteries continue to be a popular form of entertainment, it is crucial to address these ethical issues to ensure that the welfare of all participants, especially the most vulnerable, is protected.",
-  },
-];
+  }
